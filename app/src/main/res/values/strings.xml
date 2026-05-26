@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cookbook</string>
+    <string name="tagline">Odkryj smak świata</string>
+
+    <string name="nav_home">Odkryj</string>
+    <string name="nav_search">Szukaj</string>
+    <string name="nav_favorites">Ulubione</string>
+    <string name="nav_my_recipes">Moje</string>
+
+    <string name="search">Wyszukaj przepis</string>
+    <string name="search_hint">Np. Chicken, Pasta, Soup…</string>
+    <string name="search_button">Szukaj</string>
+    <string name="favorites">Ulubione</string>
+    <string name="my_recipes">Moje przepisy</string>
+    <string name="add_recipe">Dodaj przepis</string>
+
+    <string name="no_recipes_found">Brak przepisów</string>
+    <string name="no_results">Nie znaleziono przepisów.\nSpróbuj innego słowa kluczowego.</string>
+    <string name="no_favorites">Brak ulubionych przepisów.\nDodaj przepisy klikając serce.</string>
+    <string name="no_my_recipes">Nie masz jeszcze własnych przepisów.</string>
+    <string name="add_first_recipe">Dotknij + aby dodać pierwszy przepis</string>
+
+    <string name="servings">Porcje</string>
+    <string name="ingredients">Składniki</string>
+    <string name="ingredients_hint">Każdy składnik w nowej linii</string>
+    <string name="measures">Ilości</string>
+    <string name="measures_hint">Każda ilość w nowej linii (odpowiadająca składnikowi)</string>
+    <string name="instructions">Instrukcje</string>
+
+    <string name="recipe_title">Nazwa przepisu *</string>
+    <string name="recipe_category">Kategoria</string>
+    <string name="servings_count">Liczba porcji</string>
+
+    <string name="edit_recipe">Edytuj przepis</string>
+    <string name="delete_recipe">Usuń przepis</string>
+    <string name="save">Zapisz przepis</string>
+
+    <string name="added_to_favorites">Dodano do ulubionych</string>
+    <string name="removed_from_favorites">Usunięto z ulubionych</string>
+</resources>
