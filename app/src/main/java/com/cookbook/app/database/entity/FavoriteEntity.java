@@ -11,13 +11,13 @@ public class FavoriteEntity {
     @NonNull
     private String mealId;
     private String title;
-    private String thumbnail;
+    private String image;
     private String category;
 
-    public FavoriteEntity(@NonNull String mealId, String title, String thumbnail, String category) {
+    public FavoriteEntity(@NonNull String mealId, String title, String image, String category) {
         this.mealId = mealId;
         this.title = title;
-        this.thumbnail = thumbnail;
+        this.image = image;
         this.category = category;
     }
 
@@ -28,8 +28,8 @@ public class FavoriteEntity {
     public String getTitle() { return title; }
     public void setTitle(String title) { this.title = title; }
 
-    public String getThumbnail() { return thumbnail; }
-    public void setThumbnail(String thumbnail) { this.thumbnail = thumbnail; }
+    public String getImage() { return image; }
+    public void setImage(String image) { this.image = image; }
 
     public String getCategory() { return category; }
     public void setCategory(String category) { this.category = category; }
